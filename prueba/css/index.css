@@ -1,12 +1,30 @@
-#holamarikong{
-    font-size: 16;
-    font-family: sans-serif;
-    font-style: italic;
-    font-weight: lighter;
+#Titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
 }
-
-#parrafo_uno{
+#Parrafo_uno{
     text-align: justify;
     font-family: 'Times New Roman', Times, serif;
-    color: red;
+}
+#Tabla_Personajes_Actores{
+    text-align: center;
+}
+#Tabla_parte_superior{
+    border: black 2px solid;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Tabla_parte_inferior{
+    border: black 1px solid;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Palabras_Italic{
+    font-style: italic;
+}
+#Parrafo_dos{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: linear-gradient(green, greenyellow, yellow);
 }
